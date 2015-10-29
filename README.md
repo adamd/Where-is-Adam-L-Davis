@@ -1,2 +1,23 @@
 # Where-is-Adam-L-Davis
-If you're looking for Adam L Davis, you can find him at github.com/adamldavis
+If you're looking for Adam L Davis, you can find him at [github.com/adamldavis](http://github.com/adamldavis)
+
+And find his repos here:
+* [learning-groovy](http://github.com/adamldavis/learning-groovy)
+* [hellojava8](http://github.com/adamldavis/hellojava8)
+* [jant](http://github.com/adamldavis/jant)
+* [codeshare](http://github.com/adamldavis/codeshare)
+* [bunny-hop-rules](http://github.com/adamldavis/bunny-hop-rules)
+* [modern-java-examples](http://github.com/adamldavis/modern-java-examples)
+* [explore](http://github.com/adamldavis/explore)
+* [bespoke-ide](http://github.com/adamldavis/bespoke-ide)
+* [jdk8-lambda-samples](http://github.com/adamldavis/jdk8-lambda-samples)
+* [maybe-java](http://github.com/adamldavis/maybe-java)
+* [z](http://github.com/adamldavis/z)
+* [simpleJavaGA](http://github.com/adamldavis/simpleJavaGA)
+* [pathfinder](http://github.com/adamldavis/pathfinder)
+* [ignition](http://github.com/adamldavis/ignition)
+* [Json-API-Sample](http://github.com/adamldavis/Json-API-Sample)
+* [crystalrudiments](http://github.com/adamldavis/crystalrudiments)
+* [codeSamuri](http://github.com/adamldavis/codeSamuri)
+* [maven-yamlpom-plugin](http://github.com/adamldavis/maven-yamlpom-plugin)
+* [nimble](http://github.com/adamldavis/nimble)
